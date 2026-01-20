@@ -4,7 +4,7 @@ An end-to-end **AWS Data Engineering pipeline** implementing the **Bronze → Si
 
 This project demonstrates **real-world, production-style data engineering best practices** including layered storage, scalable Spark ETL, data validation, and analytics-ready modeling.
 
---
+----
 ## 📌 Project Overview
 
 The primary goal of this project is to showcase **how a well-structured data pipeline is designed, organized, and validated in a cloud environment**, rather than focusing only on individual tools.
